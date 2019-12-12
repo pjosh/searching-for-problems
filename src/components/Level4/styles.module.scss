@@ -1,0 +1,19 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .gamesList {
+    padding: 0 20px;
+
+    li {
+      margin: 5px 0;
+    }
+  }
+
+  .text {
+    color: #09d3ac;
+    font-size: 32px;
+  }
+}
